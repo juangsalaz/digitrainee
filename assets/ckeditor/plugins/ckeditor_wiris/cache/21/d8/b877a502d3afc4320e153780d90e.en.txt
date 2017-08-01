@@ -1,0 +1,1 @@
+integral subscript 0 superscript 2 integral subscript x squared end subscript superscript 4 space 2 x space d y space d space x

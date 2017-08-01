@@ -1,0 +1,1 @@
+f x space equals space open curly brackets table attributes columnalign left columnspacing 1.4ex end attributes row cell 2 x end cell cell 3 x end cell row cell 4 x end cell cell 5 x end cell end table close

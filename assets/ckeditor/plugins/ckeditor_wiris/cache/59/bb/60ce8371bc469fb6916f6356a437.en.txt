@@ -1,0 +1,1 @@
+integral 30 left parenthesis 4 minus x 2 right parenthesis space d x

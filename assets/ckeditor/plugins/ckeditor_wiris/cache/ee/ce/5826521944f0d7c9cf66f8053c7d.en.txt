@@ -1,0 +1,1 @@
+integral subscript 1 superscript 2 limit as 2 rightwards arrow infinity of f x space d x

@@ -1,0 +1,1 @@
+root index 6 of 25 cross times 100 over 5 plus root index 10 of 144

@@ -1,0 +1,1 @@
+f left parenthesis x right parenthesis space equals space open curly brackets table attributes columnalign left end attributes row cell f x. space d x end cell row cell f x space d x end cell end table close

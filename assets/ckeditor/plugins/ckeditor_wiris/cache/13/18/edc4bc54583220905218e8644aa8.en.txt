@@ -1,0 +1,1 @@
+integral subscript 1 superscript 1 f left parenthesis x right parenthesis d x space equals

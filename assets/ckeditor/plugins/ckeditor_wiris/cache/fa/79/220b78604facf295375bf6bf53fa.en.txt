@@ -1,0 +1,1 @@
+f x equals open square brackets table row 1 2 3 row 4 5 6 row 7 8 9 row 10 11 12 row 13 14 15 end table close square brackets

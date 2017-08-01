@@ -1,0 +1,161 @@
+/*List anggota group*/
+#group_selector {
+	height: auto;
+}
+
+#group_selector ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#group_selector ul li {
+	float: left;
+	background: none repeat scroll 0 0 white;
+    box-shadow: none;
+    color: #555555;
+    margin: 0 3px 3px 0;
+    cursor: default;
+    line-height: 13px;
+    padding: 3px 5px 3px 18px;
+    position: relative;
+    border: solid 1px #cccccc;
+    border-radius: 5px;
+}
+
+.close_tab_anggota {
+	left: 3px;
+	margin: -7px -8px 0 0;
+	top: 50%;
+	background: url("/online_learning/images/image_icons.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+    display: block;
+    font-size: 1px;
+    height: 13px;
+    outline: medium none;
+    position: absolute;
+    right: 3px;
+    width: 12px;
+}
+
+.clear {
+	clear: both;
+}
+
+#anggota_group {
+	width: 50px; 
+	border: none;
+	float: left;
+}
+
+.icon-chevron-up {
+  background: url("/online_learning/images/image_icons.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+}
+
+#post-content {
+    margin: 10px 0 0 0;
+    padding: 10px;
+    background-color: #c4c6c4;
+    border-radius: 5px;
+}
+
+#user-avatar {
+    float: left;
+}
+
+#post-body {
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+#post-message p {
+    font-family: inherit;
+}
+
+#comment-form {
+    margin: 10px 0 0 0;
+}
+
+.kirim_komentar {
+    margin: 5px 0 0 0;
+}
+
+/*Komentar*/
+#user-avatar-komentar {
+    float: left;
+}
+
+#comment-body {
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+#comment-body header {
+    color: #ed3748;
+}
+
+#post-comment p {
+    font-family: inherit;
+    font-weight: 400px;
+    margin: 0;
+    word-wrap: break-word;
+}
+
+#comment-content {
+    margin: 5px 0 0 0;
+}
+
+#comment-post {
+    margin: 5px 0 5px 0;
+}
+
+.overlay{
+    display: none;
+    opacity:0.5;
+    background-color:#ccc;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:99999;
+}
+
+#spinner {
+    display: none;
+    width:100px;
+    height: 100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background:url(../images/loading.gif) no-repeat center #fff;
+    text-align:center;
+    padding:10px;
+    font:normal 16px Tahoma, Geneva, sans-serif;
+    margin-left: -50px;
+    margin-top: -50px;
+    z-index:2;
+    overflow: auto;
+}
+
+.alert {
+    margin: 5px 0 0 0;
+    display: none;
+}
+
+#post-message p {
+    word-wrap: break-word;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
